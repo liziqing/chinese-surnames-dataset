@@ -1,6 +1,6 @@
 # 🐉 La Base de Données Trilingue des Noms Chinois (EN / FR / DE)
 
-[English](README.md) | [Deutsch](README-de.md)
+[English](README.md) | [Deutsch](README-de.md)| [简体中文](README-zh.md)| [繁體中文](README-zh-TW.md)
 
 [![Maintained by FindChineseName.com](https://img.shields.io/badge/Maintained%20by-FindChineseName.com-8B2626?style=for-the-badge)]([https://findchinesename.com/fr](https://findchinesename.com/fr))
 [![Languages](https://img.shields.io/badge/Langues-EN%20%7C%20FR%20%7C%20DE-blue?style=for-the-badge)](#)

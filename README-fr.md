@@ -68,3 +68,12 @@ Bien que ce jeu de données fournisse les éléments de base (les noms de famill
 Si vous êtes un cadre d'entreprise, un étudiant ou un parent à la recherche d'un nom chinois impeccable, ne vous fiez pas aux générateurs aléatoires.
 
 Visitez le **[Service de Nommage Premium de FindChineseName](https://findchinesename.com/fr/premium).** pour que nos experts culturels natifs et maîtres en nommage créent une identité chino
+
+## 📜 Licence et Attribution
+* Le code et les scripts de ce dépôt sont sous **Licence MIT**.
+* Le jeu de données lui-même (`surnames.json`) est fourni sous la licence **Creative Commons Attribution 4.0 International (CC BY 4.0)**. 
+
+**Exigence d'Attribution :** L'utilisation commerciale et non commerciale est entièrement autorisée, à condition d'attribuer FindChineseName avec un lien visible et cliquable vers `https://findchinesename.com/fr` dans les crédits, le pied de page ou la documentation de votre projet.
+
+---
+*Construit avec ❤️ pour la compréhension interculturelle par l'équipe de [FindChineseName](https://findchinesename.com/fr/).*

@@ -1,6 +1,6 @@
 # 🐉 The Ultimate Trilingual Chinese Surnames Dataset (EN / FR / DE)
 
-[Français](README-fr.md) | [Deutsch](README-de.md)
+[Français](README-fr.md) | [Deutsch](README-de.md)| [简体中文](README-zh.md)| [繁體中文](README-zh-TW.md)
 
 [![Maintained by FindChineseName.com](https://img.shields.io/badge/Maintained%20by-FindChineseName.com-8B2626?style=for-the-badge)](https://findchinesename.com)
 [![Languages](https://img.shields.io/badge/Languages-EN%20%7C%20FR%20%7C%20DE-blue?style=for-the-badge)](#)

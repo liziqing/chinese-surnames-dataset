@@ -196,11 +196,15 @@ https://github.com/liziqing/chinese-surnames-dataset
 
 Lors de la redistribution d’une version modifiée, indiquez la version utilisée et décrivez clairement les modifications apportées.
 
+
+
 ## Licence
 
-Le code et les scripts de validation de ce dépôt sont publiés sous [licence MIT](LICENSE).
+Le code, les scripts de validation, les workflows et la documentation
+logicielle associée de ce dépôt sont publiés sous [licence MIT](LICENSE).
 
-Le fichier de données `surnames.json` est fourni sous la **licence Creative Commons Attribution 4.0 International (CC BY 4.0)**.
+Le fichier de données `surnames.json` est publié sous la
+[licence Creative Commons Attribution 4.0 International](LICENSE-DATA).
 
 Attribution suggérée :
 

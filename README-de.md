@@ -198,9 +198,12 @@ Bei der Weitergabe einer veränderten Fassung sollte die verwendete Version ange
 
 ## Lizenz
 
-Code und Validierungsskripte dieses Repositorys stehen unter der [MIT-Lizenz](LICENSE).
+Code, Validierungsskripte, Workflows und zugehörige Softwaredokumentation
+dieses Repositorys stehen unter der [MIT-Lizenz](LICENSE).
 
-Die Datendatei `surnames.json` wird unter der **Creative Commons Attribution 4.0 International License (CC BY 4.0)** bereitgestellt.
+Die Datendatei `surnames.json` wird unter der
+[Creative Commons Attribution 4.0 International License](LICENSE-DATA)
+bereitgestellt.
 
 Empfohlene Namensnennung:
 

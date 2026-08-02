@@ -198,9 +198,12 @@ https://github.com/liziqing/chinese-surnames-dataset
 
 ## 许可协议
 
-本仓库中的代码及数据校验脚本采用 [MIT License](LICENSE)。
+本仓库中的代码、数据校验脚本、工作流及相关软件文档采用
+[MIT License](LICENSE)。
 
-数据文件 `surnames.json` 采用 **Creative Commons Attribution 4.0 International（CC BY 4.0）**许可。
+数据文件 `surnames.json` 采用
+[Creative Commons Attribution 4.0 International（CC BY 4.0）](LICENSE-DATA)
+许可。
 
 建议署名格式：
 

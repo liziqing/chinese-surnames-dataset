@@ -6,7 +6,7 @@ Ein offener, strukturierter und mehrsprachiger Datensatz mit mehr als 1.000 chin
 
 [![Datensatzsprachen](https://img.shields.io/badge/Sprachen-EN%20%7C%20FR%20%7C%20DE-blue)](#)
 [![Datenformat](https://img.shields.io/badge/Format-JSON-green)](#)
-[![Datenlizenz](https://img.shields.io/badge/Daten-CC%20BY%204.0-lightgrey)](#lizenz)
+[![Datenlizenz](https://img.shields.io/badge/Daten-CC%20BY%204.0-lightgrey)](LICENSE-DATA)
 [![Codelizenz](https://img.shields.io/badge/Code-MIT-lightgrey)](LICENSE)
 
 ## Überblick
@@ -169,6 +169,8 @@ Geplante Verbesserungen umfassen:
 Die Roadmap beschreibt beabsichtigte Arbeiten und kann sich mit der Weiterentwicklung des Projekts ändern.
 
 ## Mitwirken
+
+Die ausführlichen Richtlinien finden Sie in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 Beiträge sind insbesondere in folgenden Bereichen willkommen:
 

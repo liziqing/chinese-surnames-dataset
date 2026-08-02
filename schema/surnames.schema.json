@@ -1,0 +1,88 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/liziqing/chinese-surnames-dataset/blob/main/schema/surnames.schema.json",
+  "title": "Chinese Surnames Dataset",
+  "description": "Schema for the open multilingual Chinese surnames dataset.",
+  "type": "array",
+  "items": {
+    "$ref": "#/$defs/surname"
+  },
+  "$defs": {
+    "surname": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "hanzi",
+        "pinyin"
+      ],
+      "properties": {
+        "hanzi": {
+          "type": "string",
+          "minLength": 1
+        },
+        "traditional": {
+          "type": "string"
+        },
+        "pinyin": {
+          "type": "string",
+          "minLength": 1
+        },
+        "pronunciation": {
+          "type": "string"
+        },
+        "element": {
+          "type": "string",
+          "enum": [
+            "",
+            "Wood",
+            "Fire",
+            "Earth",
+            "Metal",
+            "Water"
+          ]
+        },
+        "meaningEn": {
+          "type": "string"
+        },
+        "meaningFr": {
+          "type": "string"
+        },
+        "meaningDe": {
+          "type": "string"
+        },
+        "originEn": {
+          "type": "string"
+        },
+        "originFr": {
+          "type": "string"
+        },
+        "originDe": {
+          "type": "string"
+        },
+        "famousPeopleEn": {
+          "type": "string"
+        },
+        "famousPeopleFr": {
+          "type": "string"
+        },
+        "famousPeopleDe": {
+          "type": "string"
+        },
+        "variants": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "ancientOrigin": {
+          "type": "string"
+        },
+        "originEra": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

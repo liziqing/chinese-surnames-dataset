@@ -6,7 +6,7 @@
 
 [![資料語言](https://img.shields.io/badge/資料語言-英%20%7C%20法%20%7C%20德-blue)](#)
 [![資料格式](https://img.shields.io/badge/格式-JSON-green)](#)
-[![資料授權](https://img.shields.io/badge/資料-CC%20BY%204.0-lightgrey)](#授權條款)
+[![資料授權](https://img.shields.io/badge/資料-CC%20BY%204.0-lightgrey)](LICENSE-DATA)
 [![程式碼授權](https://img.shields.io/badge/程式碼-MIT-lightgrey)](LICENSE)
 
 ## 專案概述
@@ -169,6 +169,8 @@
 路線圖代表目前計畫，可能隨著專案發展而調整。
 
 ## 參與貢獻
+
+詳細貢獻規範請參閱 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
 特別歡迎以下貢獻：
 

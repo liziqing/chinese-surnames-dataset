@@ -6,7 +6,7 @@ An open, structured, and multilingual dataset of more than 1,000 Chinese surname
 
 [![Dataset Languages](https://img.shields.io/badge/Dataset%20Languages-EN%20%7C%20FR%20%7C%20DE-blue)](#)
 [![Data Format](https://img.shields.io/badge/Format-JSON-green)](#)
-[![Dataset License](https://img.shields.io/badge/Data-CC%20BY%204.0-lightgrey)](#license)
+[![Dataset License](https://img.shields.io/badge/Data-CC%20BY%204.0-lightgrey)](LICENSE-DATA)
 [![Code License](https://img.shields.io/badge/Code-MIT-lightgrey)](LICENSE)
 
 ## Overview
@@ -169,6 +169,8 @@ Planned improvements include:
 Roadmap items describe intended work and may change as the project develops.
 
 ## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the detailed contribution guidelines.
 
 Contributions are welcome, particularly in the following areas:
 

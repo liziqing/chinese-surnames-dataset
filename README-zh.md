@@ -6,7 +6,7 @@
 
 [![数据语言](https://img.shields.io/badge/数据语言-英%20%7C%20法%20%7C%20德-blue)](#)
 [![数据格式](https://img.shields.io/badge/格式-JSON-green)](#)
-[![数据许可](https://img.shields.io/badge/数据-CC%20BY%204.0-lightgrey)](#许可协议)
+[![数据许可](https://img.shields.io/badge/数据-CC%20BY%204.0-lightgrey)](LICENSE-DATA)
 [![代码许可](https://img.shields.io/badge/代码-MIT-lightgrey)](LICENSE)
 
 ## 项目概述
@@ -169,6 +169,8 @@
 路线图代表当前计划，可能随着项目发展而调整。
 
 ## 参与贡献
+
+详细贡献规范请参阅 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
 特别欢迎以下贡献：
 

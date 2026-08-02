@@ -6,7 +6,7 @@ Un jeu de données ouvert, structuré et multilingue comprenant plus de 1 000 no
 
 [![Langues du jeu de données](https://img.shields.io/badge/Langues-EN%20%7C%20FR%20%7C%20DE-blue)](#)
 [![Format des données](https://img.shields.io/badge/Format-JSON-green)](#)
-[![Licence des données](https://img.shields.io/badge/Données-CC%20BY%204.0-lightgrey)](#licence)
+[![Licence des données](https://img.shields.io/badge/Données-CC%20BY%204.0-lightgrey)](LICENSE-DATA)
 [![Licence du code](https://img.shields.io/badge/Code-MIT-lightgrey)](LICENSE)
 
 ## Présentation
@@ -169,6 +169,8 @@ Les améliorations prévues comprennent :
 La feuille de route présente des travaux envisagés et peut évoluer avec le projet.
 
 ## Contribuer
+
+Consultez [CONTRIBUTING.md](CONTRIBUTING.md) pour connaître les directives détaillées de contribution.
 
 Les contributions sont particulièrement bienvenues dans les domaines suivants :
 

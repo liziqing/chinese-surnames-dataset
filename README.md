@@ -198,9 +198,11 @@ When redistributing a modified version, identify the version used and clearly in
 
 ## License
 
-Code and validation scripts in this repository are licensed under the [MIT License](LICENSE).
+Code, validation scripts, workflows, and related software documentation in
+this repository are licensed under the [MIT License](LICENSE).
 
-The dataset file `surnames.json` is provided under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
+The dataset file `surnames.json` is licensed under the
+[Creative Commons Attribution 4.0 International License](LICENSE-DATA).
 
 Suggested dataset attribution:
 
